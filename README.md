@@ -18,6 +18,7 @@ Source: World Bank Open Data
 Indicator: NY.GDP.MKTP.KD.ZG (GDP Growth % annual)
 
 File: API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_5994650.csv
+[API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_26269.zip](https://github.com/user-attachments/files/19543515/API_NY.GDP.MKTP.KD.ZG_DS2_en_csv_v2_26269.zip)
 
 ##### 📁 Contents
 Data extraction and preprocessing from a ZIP archive
