@@ -1,4 +1,5 @@
-📈 Navigating Through Turbulence: Global Economic Resilience and Recovery Post-COVID-19
+## 📈 Navigating Through Turbulence: Global Economic Resilience and Recovery Post-COVID-19
+
 📘 Overview
 This project analyzes GDP growth data across various countries from 2014 to 2022 to understand how global economies have performed and recovered from major events such as the 2008 financial crisis and the COVID-19 pandemic. The dataset used is sourced from the World Bank, focusing on annual GDP growth rates.
 
